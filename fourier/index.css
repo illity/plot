@@ -1,0 +1,19 @@
+*, html {
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	height: 100%;
+}
+
+.card {
+	aspect-ratio: 2/3;
+	height: 100%;
+	border: 0px;
+	border-radius: 8px;
+}
+
+button {
+	cursor: pointer;
+}
